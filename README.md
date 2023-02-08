@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=tokyonight_duo&hide_border=true&border_radius=6.6&date_format=%5BY.%5Dn.j&mode=weekly&sideNums=EB5454&background=0B0B39&border=52EBD9&stroke=EB576D)](https://git.io/streak-stats)
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
