@@ -5,6 +5,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=tokyonight_duo&hide_border=true&border_radius=6.6&date_format=%5BY.%5Dn.j&mode=weekly&sideNums=EB5454&background=0B0B39&border=52EBD9&stroke=EB576D)](https://git.io/streak-stats)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c3caf7e-013b-406c-bfcc-3f931c421a98/deploy-status)](https://app.netlify.com/sites/elyees-youtube-2/deploys)
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
