@@ -1483,22 +1483,4 @@ It means you need to ensure that the lettercase of the file or directory you `im
 
 This is important because Linux (the operating system used by Heroku) is case sensitive. So `MyDirectory` and `mydirectory` are two distinct directories and thus, even though the project builds locally, the difference in case breaks the `import` statements on Heroku remotes.
 
-##### "Could not find a required file."
-
-If you exclude or ignore necessary files from the package you will see a error similar this one:
-
-```
-remote: Could not find a required file.
-remote:   Name: `index.html`
-remote:   Searched in: /tmp/build_a2875fc163b209225122d68916f1d4df/public
-remote:
-remote: npm ERR! Linux 3.13.0-105-generic
-remote: npm ERR! argv "/tmp/build_a2875fc163b209225122d68916f1d4df/.heroku/node/bin/node" "/tmp/build_a2875fc163b209225122d68916f1d4df/.heroku/node/bin/npm" "run" "build"
-```
-
-In this case, ensure that the file is there with the proper lettercase and that’s not ignored on your local `.gitignore` or `~/.gitignore_global`.
-
-### Modulus
-
-See the [Modulus blog post](http://blog.modulus.io/deploying-react-apps-on-modulus) on how to deploy your react app to Modulus.
 
