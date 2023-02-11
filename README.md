@@ -1596,27 +1596,4 @@ If this doesn’t happen, try one of the following workarounds:
 
 If none of these solutions help please leave a comment [in this thread](https://github.com/facebookincubator/create-react-app/issues/659).
 
-### `npm test` hangs on macOS Sierra
-
-If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://facebook.github.io/watchman/) installation as described in [facebookincubator/create-react-app#713](https://github.com/facebookincubator/create-react-app/issues/713).
-
-We recommend deleting `node_modules` in your project and running `npm install` (or `yarn` if you use it) first. If it doesn't help, you can try one of the numerous workarounds mentioned in these issues:
-
-* [facebook/jest#1767](https://github.com/facebook/jest/issues/1767)
-* [facebook/watchman#358](https://github.com/facebook/watchman/issues/358)
-* [ember-cli/ember-cli#6259](https://github.com/ember-cli/ember-cli/issues/6259)
-
-It is reported that installing Watchman 4.7.0 or newer fixes the issue. If you use [Homebrew](http://brew.sh/), you can run these commands to update it:
-
-```
-watchman shutdown-server
-brew update
-brew reinstall watchman
-```
-
-You can find [other installation methods](https://facebook.github.io/watchman/docs/install.html#build-install) on the Watchman documentation page.
-
-If this still doesn’t help, try running `launchctl unload -F ~/Library/LaunchAgents/com.github.facebook.watchman.plist`.
-
-There are also reports that *uninstalling* Watchman fixes the issue. So if nothing else helps, remove it from your system and try again.
 
