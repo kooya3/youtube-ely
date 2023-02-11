@@ -1518,32 +1518,3 @@ To support `pushState`, make sure to create a `public/_redirects` file with the 
 
 When you build the project, Create React App will place the `public` folder contents into the build output.
 
-### Now
-
-[now](https://zeit.co/now) offers a zero-configuration single-command deployment.
-
-1. Install the `now` command-line tool either via the recommended [desktop tool](https://zeit.co/download) or via node with `npm install -g now`.
-
-2. Install `serve` by running `npm install --save serve`.
-
-3. Add this line to `scripts` in `package.json`:
-    
-    ```
-    "now-start": "serve build/",
-    ```
-    
-4. Run `now` from your project directory. You will see a **now.sh** URL in your output like this:
-    
-    ```
-    > Ready! https://your-project-dirname-tpspyhtdtk.now.sh (copied to clipboard)
-    ```
-    
-    Paste that URL into your browser when the build is complete, and you will see your deployed app.
-
-Details are available in [this article.](https://zeit.co/blog/now-static)
-
-### S3 and CloudFront
-
-See this [blog post](https://medium.com/@omgwtfmarc/deploying-create-react-app-to-s3-or-cloudfront-48dae4ce0af) on how to deploy your React app to Amazon Web Services [S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront/).
-
-
