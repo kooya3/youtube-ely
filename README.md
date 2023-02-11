@@ -93,19 +93,7 @@ Choose `build` as the path to deploy.
   - [Azure](#azure)
   - [Firebase](#firebase)
   - [GitHub Pages](#github-pages)
-  - [Heroku](#heroku)
-  - [Modulus](#modulus)
-  - [Netlify](#netlify)
-  - [Now](#now)
-  - [S3 and CloudFront](#s3-and-cloudfront)
-  - [Surge](#surge)
-- [Advanced Configuration](#advanced-configuration)
-- [Troubleshooting](#troubleshooting)
-  - [`npm start` doesn’t detect changes](#npm-start-doesnt-detect-changes)
-  - [`npm test` hangs on macOS Sierra](#npm-test-hangs-on-macos-sierra)
-  - [`npm run build` silently fails](#npm-run-build-silently-fails)
-  - [`npm run build` fails on Heroku](#npm-run-build-fails-on-heroku)
-- [Something Missing?](#something-missing)
+
 
 ## Updating to New Releases
 
