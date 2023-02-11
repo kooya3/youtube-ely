@@ -2,6 +2,13 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=garden&hide_border=true&date_format=%5BY.%5Dn.j&stroke=BCEB1E)](https://git.io/streak-stats)
 
+  # Project Outlook
+> ![elyees-youtube-2 netlify app_ (1)](https://user-images.githubusercontent.com/84116117/218281474-eed01ae4-5396-4e96-9c75-bb5978d67ea5.png)
+This project was based on creating a youtube clone using API and ReactJS.
+>> The project itself is a masterpiece for me but I havent had the oportunity to test it out completely.
+>> It has a few bugs and not everything works as perfect and in sync as the real youtube 
+
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4c3caf7e-013b-406c-bfcc-3f931c421a98/deploy-status)](https://app.netlify.com/sites/elyees-youtube-2/deploys)
 
 ## Table of Contents
