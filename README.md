@@ -14,6 +14,19 @@ This project was deployed to netlify via their online platform
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4c3caf7e-013b-406c-bfcc-3f931c421a98/deploy-status)](https://app.netlify.com/sites/elyees-youtube-2/deploys)
 
+
+## Netlify
+
+**To do a manual deploy to Netlify’s CDN:**
+
+```sh
+npm install netlify-cli
+netlify deploy
+```
+
+Choose `build` as the path to deploy.
+
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
