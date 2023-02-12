@@ -1,6 +1,4 @@
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=garden&hide_border=true&date_format=%5BY.%5Dn.j&stroke=BCEB1E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kooya3&theme=gruvbox&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&fire=EB5454&background=2E1116)](https://git.io/streak-stats)
 
   # Project Outlook
 > ![elyees-youtube-2 netlify app_ (1)](https://user-images.githubusercontent.com/84116117/218281474-eed01ae4-5396-4e96-9c75-bb5978d67ea5.png)
