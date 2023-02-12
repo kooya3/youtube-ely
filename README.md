@@ -14,6 +14,12 @@ This project was deployed to netlify via their online platform
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4c3caf7e-013b-406c-bfcc-3f931c421a98/deploy-status)](https://app.netlify.com/sites/elyees-youtube-2/deploys)
 
+## Contributions
+> This project is in it's first genesis stage with minimal implementations of sufficient backend handling.
+>> I will explore as much as I can about API's and also Schemas. I desire to make this webapp really fascinating more than it is right now that's why I'm asking for help on this project. I need dedicated contributors to help me realize this vision of mine.
+
+Great things are done by a series of small things brought together    ### ~Vincent Van Gogh
+
 ## Available Scripts
 
 In the project directory, you can run:
