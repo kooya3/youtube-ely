@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import { Paper, IconButton } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
+import { InfinitySpin } from 'react-loader-spinner';
 
 const SearchBar = () => {
   const [searchTerm, setSearchTerm] = useState('');
