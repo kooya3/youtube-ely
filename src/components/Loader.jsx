@@ -11,7 +11,7 @@ const Loading = () => (
       width: '100vw',
     }}
   >
-    <InfinitySpin />
+    <InfinitySpin color="#CE0318" />
   </Box>
 );
 const Loader = () =>  (
